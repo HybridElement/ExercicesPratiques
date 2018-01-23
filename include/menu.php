@@ -1,7 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: admin
- * Date: 23/01/2018
- * Time: 17:15
- */
+<nav id="menu">
+    <div class="element_menu">
+        <h3>Titre menu</h3>
+        <ul>
+            <li><a href="page1.html">Lien</a></li>
+            <li><a href="page2.html">Lien</a></li>
+            <li><a href="page3.html">Lien</a></li>
+        </ul>
+    </div>
+</nav>
